@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * Katherine (Katie) Barrett
  * EN.605.201.81.SU24
@@ -13,6 +11,7 @@ import java.util.Scanner;
  *      3. for String .split method
  */
 
+import java.util.Scanner;
 
 public class MorseTranslator
 {
